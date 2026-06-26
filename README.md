@@ -1,6 +1,6 @@
 <div align="center">
 
-```ascii
+```text
 ███╗   ███╗ ██████╗ ██╗   ██╗██╗   ██╗
 ████╗ ████║██╔═══██╗╚██╗ ██╔╝╚██╗ ██╔╝
 ██╔████╔██║██║   ██║ ╚████╔╝  ╚████╔╝
@@ -9,13 +9,11 @@
 ╚═╝     ╚═╝ ╚═════╝    ╚═╝      ╚═╝
 ```
 
-### Moyy · Automation Engineer & Bot Builder
+**Automation Engineer · Bot Builder · VPS Operator**
 
-<a href="https://mocasus.my.id"><img src="https://img.shields.io/badge/🌐_Website-mocasus.my.id-2ea44f?style=for-the-badge" alt="Website"/></a>
-<a href="https://t.me/rubuskap"><img src="https://img.shields.io/badge/💬_Telegram-@rubuskap-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="#"><img src="https://img.shields.io/badge/📍_Semarang-ID-EA4335?style=for-the-badge" alt="Location"/></a>
-
-<img src="https://img.shields.io/badge/Profile-v3.0-181717?style=flat-square&logo=github&logoColor=white" alt="Version" />
+[![Website](https://img.shields.io/badge/🌐_mocasus.my.id-2ea44f?style=for-the-badge)](https://mocasus.my.id)
+[![Telegram](https://img.shields.io/badge/💬_@rubuskap-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rubuskap)
+[![Location](https://img.shields.io/badge/📍_Semarang-ID-EA4335?style=for-the-badge)](#)
 
 </div>
 
@@ -23,12 +21,14 @@
 
 ## About
 
-Mahasiswa Sastra Inggris UNNES yang kebablasan ngoding. Build **Telegram bots**, **automation pipelines**, dan **service bridges** yang production-ready. Setup sendiri VPS Debian, deploy via Cloudflare Tunnel, run semuanya as systemd services. Kalau lagi gak debug production, biasanya lagi ngulik **anti-detect browser fingerprinting** atau **payment gateway integration**.
+Mahasiswa Sastra Inggris UNNES yang kebablasan ngoding. Build **Telegram bots**, **automation pipelines**, dan **service bridges** yang production-ready. Setup sendiri VPS Debian, deploy via Cloudflare Tunnel, run semuanya as systemd services.
+
+Suka ngulik **anti-detect browser fingerprinting**, **payment gateway integration**, dan **captcha bypass research**.
 
 <details>
 <summary>🇮🇩 Versi Indonesia</summary>
 
-Bikin bot Telegram buat jualan (GSuite reseller, domain, virtual account), automation buat grab keys & bypass captcha, dan bridge yang nyambungin X/Twitter ke WhatsApp. Stack andalan: Node.js + TypeScript buat bot production, Python buat scripting & ML, Go buat CLI tools. Semua deploy di VPS Debian 12, tunneling lewat Cloudflare.
+Bikin bot Telegram buat jualan (GSuite reseller, domain, virtual account), automation buat grab keys & bypass captcha, dan bridge yang nyambungin X/Twitter ke WhatsApp. Stack andalan: Node.js + TypeScript buat bot production, Python buat scripting, Go buat CLI tools. Semua deploy di VPS Debian 12, tunneling lewat Cloudflare.
 
 </details>
 
@@ -66,7 +66,7 @@ SQL                      ████████░░░░░░░░░░�
 
 ## Featured Projects
 
-**🌉 [x-waha-bridge](https://github.com/mocasus/x-waha-bridge)** ⭐
+**🌉 [x-waha-bridge](https://github.com/mocasus/x-waha-bridge)**
 > Production bridge that mirrors public X posts to WhatsApp in real-time
 > `TypeScript` `Node.js` `Real-time sync`
 
@@ -82,7 +82,7 @@ SQL                      ████████░░░░░░░░░░�
 > Mega-repo: 13 bots & automations consolidated for VPS deployment
 > `Multi-language` `50k+ LOC` `systemd`
 
-[→ See all repos](https://github.com/mocasus?tab=repositories)
+[→ See all 31 repos](https://github.com/mocasus?tab=repositories)
 
 ---
 
@@ -123,5 +123,5 @@ SQL                      ████████░░░░░░░░░░�
 ---
 
 <div align="center">
-<sub>Profile v3.0 · Last updated: 2026-06-27</sub>
+<sub>Profile v4.0 · 2026-06-27</sub>
 </div>
