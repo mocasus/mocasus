@@ -1,47 +1,76 @@
 <div align="center">
 
-# Hey, I'm **Moyy** 👋
+```ascii
+███╗   ███╗ ██████╗ ██╗   ██╗██╗   ██╗
+████╗ ████║██╔═══██╗╚██╗ ██╔╝╚██╗ ██╔╝
+██╔████╔██║██║   ██║ ╚████╔╝  ╚████╔╝
+██║╚██╔╝██║██║   ██║  ╚██╔╝    ╚██╔╝
+██║ ╚═╝ ██║╚██████╔╝   ██║      ██║
+╚═╝     ╚═╝ ╚═════╝    ╚═╝      ╚═╝
+```
 
-**Mahasiswa Sastra Inggris · Automation & Bot Builder · Semarang 🇮🇩**
+### **Moyy** · Automation & Bot Builder
 
-Saya bikin bot Telegram, automation scripts, dan bridge services di VPS Debian.
+<a href="https://mocasus.my.id"><img src="https://img.shields.io/badge/🌐_mocasus.my.id-2ea44f?style=for-the-badge" alt="Website"/></a>
+<a href="https://t.me/rubuskap"><img src="https://img.shields.io/badge/💬_@rubuskap-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+<a href="#"><img src="https://img.shields.io/badge/📍_Semarang,_ID-EA4335?style=for-the-badge" alt="Location"/></a>
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+## 👋 About
+
+Mahasiswa Sastra Inggris UNNES yang kebablasan ngoding. Suka build **Telegram bots**, **automation scripts**, dan **service bridges**. Setup sendiri VPS Debian, deploy pake Cloudflare Tunnel, run semuanya via systemd. Kalau lagi gak nge-debug production, biasanya lagi ngulik **anti-detect browser fingerprint** atau **payment gateway integration**.
+
+<details>
+<summary>🇮🇩 Bahasa Indonesia</summary>
+
+Saya bikin bot Telegram buat jualan (GSuite reseller, domain, virtual account), automation buat grab keys & bypass captcha, dan bridge yang nyambungin X/Twitter ke WhatsApp. Stack andalan: Node.js + TypeScript buat bot production, Python buat scripting & ML, Go buat CLI tools. Semua deploy di VPS Debian 12, tunneling lewat Cloudflare.
+
+</details>
+
+---
+
+## 🛠 Tech Stack
 
 <table>
-<tr><th>Languages</th><th>Frameworks & Tools</th><th>Domains</th></tr>
+<tr>
+<th width="33%">💻 Languages</th>
+<th width="33%">🚀 Frameworks & Tools</th>
+<th width="34%">🌐 Domains</th>
+</tr>
 <tr>
 <td valign="top">
 
-- TypeScript / JavaScript (Node.js)
-- Python 3
-- Go
-- PHP / Blade
-- HTML / CSS
+```text
+JavaScript / TypeScript  ★★★★★
+Python                    ★★★★☆
+Go                        ★★★★☆
+PHP / Blade               ★★★☆☆
+HTML / CSS                ★★★☆☆
+SQL                       ★★☆☆☆
+```
 
 </td>
 <td valign="top">
 
-- Telegram Bot API / MTProto (Telethon)
-- FastAPI / Express
-- Playwright / Camoufox
-- Cloudflare Tunnel
-- Google Workspace Admin SDK
-- KlikQRIS payment API
-- Residential proxy rotation (9proxy)
+- **Bot**: Telegraf · Grammy · Pyrogram · Telethon
+- **API**: FastAPI · Express · Hono
+- **Browser**: Playwright · Camoufox · Puppeteer
+- **Infra**: Cloudflare Tunnel · systemd · Nginx · Caddy
+- **Payments**: KlikQRIS · Midtrans
+- **Auth**: Google Workspace Admin SDK · OAuth2
 
 </td>
 <td valign="top">
 
-- 🤖 Telegram bots (reseller, order, payment)
+- 🤖 Telegram bot ecosystems (reseller, payment)
+- 🌉 Service bridges (X → WA, social automation)
 - 🌍 Web automation & captcha bypass
-- 🔗 Service bridges (X → WA, etc)
 - 💳 QRIS payment integration
 - 🛡 Anti-detect browser fingerprinting
+- 🏪 Domain & account reselling platforms
 
 </td>
 </tr>
@@ -49,85 +78,93 @@ Saya bikin bot Telegram, automation scripts, dan bridge services di VPS Debian.
 
 ---
 
-### ⭐ Featured Projects
+## ⭐ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**[🤖 telegram-auto-order-bot](https://github.com/mocasus/telegram-auto-order-bot)**
-> Bot Telegram Auto Order dengan Pembayaran QRIS (KlikQRIS)
-- Full order flow: catalog → payment → delivery
-- KlikQRIS webhook integration
-- Multi-shop support
+**🌉 [x-waha-bridge](https://github.com/mocasus/x-waha-bridge)** ⭐ 1
+> Production-ready bridge that mirrors public X posts to WhatsApp via WA
+```text
+TypeScript · Node.js · Real-time sync
+```
 
 </td>
 <td width="50%">
 
-**[🌉 x-waha-bridge](https://github.com/mocasus/x-waha-bridge)** ⭐ 1
-> Production-ready bridge that mirrors public X posts to WhatsApp via WA
-- Real-time X → WA channel sync
-- TypeScript + Node.js
+**🤖 [telegram-auto-order-bot](https://github.com/mocasus/telegram-auto-order-bot)**
+> Bot Telegram Auto Order dengan Pembayaran QRIS (KlikQRIS)
+```text
+Python · FastAPI · KlikQRIS webhook
+```
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[🚀 smart-commit-cli](https://github.com/mocasus/smart-commit-cli)**
+**🚀 [smart-commit-cli](https://github.com/mocasus/smart-commit-cli)**
 > AI-powered CLI to generate conventional commits and PR descriptions
-- Analyzes git diff
-- Auto-generates semantic commits
+```text
+TypeScript · LLM · Git automation
+```
 
 </td>
 <td width="50%">
 
-**[📦 moyy-vps-bots](https://github.com/mocasus/moyy-vps-bots)** (private)
-> Mega-repo: 13 bots & automations consolidating all VPS projects
-- 1,100+ files, 50k+ LOC
-- 2FA · domain bot · GWS reseller · tmail · unnes · qoder
+**📦 [moyy-vps-bots](https://github.com/mocasus/moyy-vps-bots)** 🔒
+> Mega-repo: 13 bots & automations on VPS — handoff for next agent
+```text
+1,100+ files · 50k+ LOC · Multi-bot
+```
 
 </td>
 </tr>
 </table>
 
-[→ View all 31 public repos](https://github.com/mocasus?tab=repositories)
+[→ See all 31+ public repos](https://github.com/mocasus?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mocasus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mocasus&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mocasus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mocasus&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocasus&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocasus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
+<img height="160" src="https://github-profile-trophy.vercel.app/?username=mocasus&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" />
 
 </div>
 
 ---
 
-### 🤝 Recent Activity
+## 🔭 Currently Working On
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR in [moyy-vps-bots](https://github.com/mocasus/moyy-vps-bots)
-2. 💪 Opened PR in [telegram-auto-order-bot](https://github.com/mocasus/telegram-auto-order-bot)
-3. 🔭 Working on [luarmor-key-grabber](https://github.com/mocasus/moyy-vps-bots) (private)
-<!--END_SECTION:activity-->
+- 🔧 [moyy-vps-bots](https://github.com/mocasus/mocasus) — consolidating 13 bots into mega-repo
+- 🌐 [luarmor-key-grabber](https://github.com/mocasus/moyy-vps-bots) — Imp Hub key auto-capture
+- 🧪 Anti-detect browser research — Cloudflare Managed Challenge bypass
+- 🤖 GSuite reseller automation — KlikQRIS payment integration
 
 ---
 
-### 🌐 Connect
+## 🌐 Connect
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-mocasus.my.id-2ea44f?style=for-the-badge)](https://mocasus.my.id)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-@mocasus-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/mocasus)
-[![Location](https://img.shields.io/badge/📍_Semarang,_Indonesia-EA4335?style=for-the-badge)]()
+| Channel | Link |
+|:---:|:---|
+| 🌐 Website | [mocasus.my.id](https://mocasus.my.id) |
+| 💬 Telegram | [@rubuskap](https://t.me/rubuskap) |
+| 📍 Location | Semarang, Indonesia 🇮🇩 |
+| 🏛 University | UNNES (Sastra Inggris) |
 
 </div>
 
 ---
 
-<sub>🤖 Profile crafted with <3 and Hermes Agent · Last updated: 2026-06-27</sub>
+<sub>🤖 This profile README was crafted by [Hermes Agent](https://github.com/hermes-agent) · Last updated: 2026-06-27</sub>
