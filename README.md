@@ -132,16 +132,16 @@ SQL                      ████████░░░░░░░░░░�
 
 <div align="center">
 
-<!-- Primary stats: github-readme-stats hackclub mirror (stable) -->
+<!-- Primary stats: github-readme-stats mu-rouge mirror (hackclub mirror has no PAT set, original 503) -->
 <a href="https://github.com/mocasus">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=mocasus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=2ea44f&icon_color=26a5e4&cache_seconds=1800" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats-mu-rouge.vercel.app/api?username=mocasus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=2ea44f&icon_color=26a5e4&cache_seconds=1800" alt="Stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=mocasus&theme=tokyonight&hide_border=true&background=0d1117&ring=2ea44f&fire=ea4335&currStreakLabel=2ea44f" alt="Streak"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/mocasus">
-  <img height="160" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=mocasus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=2ea44f&cache_seconds=1800" alt="Languages"/>
+  <img height="160" src="https://github-readme-stats-mu-rouge.vercel.app/api/top-langs/?username=mocasus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=2ea44f&cache_seconds=1800" alt="Languages"/>
 </a>
 
 <br/><br/>
