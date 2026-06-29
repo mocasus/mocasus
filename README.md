@@ -214,7 +214,7 @@ SQL                      ████████░░░░░░░░░░�
 <td align="center" width="50%">
 
 <a href="https://unnes.ac.id">
-  <img src="https://raw.githubusercontent.com/mocasus/mocasus/main/assets/unnes-logo.png" alt="UNNES" height="48"/>
+  <img src="https://raw.githubusercontent.com/mocasus/mocasus/main/assets/unnes-logo.png" alt="UNNES" height="64"/>
 </a>
 
 **Universitas Negeri Semarang**
@@ -238,6 +238,6 @@ SQL                      ████████░░░░░░░░░░�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer"/>
 
-<sub>Profile <b>v5.2</b> · 2026-06-30 · Built with ❤️ on Debian 12</sub>
+<sub>Profile <b>v5.3</b> · 2026-06-30</sub>
 
 </div>
