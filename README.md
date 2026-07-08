@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Capsule render hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=mocasus&fontSize=70&fontAlignY=35&desc=Automation%20Engineer%20%C2%B7%20Bot%20Builder%20%C2%B7%20VPS%20Operator&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,2ea44f&height=180&section=header&text=mocasus&fontSize=72&fontAlignY=38&desc=Automation%20Engineer%20%C2%B7%20Bot%20Architect%20%C2%B7%20VPS%20Operator&descAlignY=62&descAlign=50&fontColor=ffffff&animation=fadeIn" alt="header"/>
 
 <!-- Typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=2EA44F&center=true&vCenter=true&width=720&lines=Mahasiswa+Sastra+Inggris+yang+kebablasan+ngoding;Production-grade+Telegram+bots+%26+automation;Self-hosted+on+Debian+12+%2B+Cloudflare+Tunnel;Anti-detect+browser+%26+captcha+bypass+research" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=2EA44F&center=true&vCenter=true&width=700&lines=Building+production+Telegram+bots+%26+automation;Self-hosted+on+Debian+12+%2B+Cloudflare+Tunnel;Anti-detect+browser+%26+captcha+bypass+research;Modular+plugin+systems+%26+multi-agent+orchestration" alt="typing"/>
 
 <br/><br/>
 
-<!-- Badge row (no emoji in URL — caused encoding issues) -->
+<!-- Badge row -->
 [![Website](https://img.shields.io/badge/mocasus.my.id-2ea44f?style=for-the-badge&logo=globe&logoColor=white&labelColor=0d1117)](https://mocasus.my.id)
 [![Telegram](https://img.shields.io/badge/@rubuskap-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/rubuskap)
 [![Location](https://img.shields.io/badge/Semarang_ID-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)](#)
@@ -20,16 +20,16 @@
 
 ## 🧠 About
 
-Mahasiswa Sastra Inggris UNNES yang kebablasan ngoding. Build **Telegram bots**, **automation pipelines**, dan **service bridges** yang production-ready. Setup sendiri VPS Debian, deploy via Cloudflare Tunnel, run semuanya as systemd services.
+Automation engineer building **Telegram bots**, **Discord tooling**, and **service bridges** that run production-ready on self-hosted Debian VPS. Everything deployed via Cloudflare Tunnel — no public ports exposed.
 
-Suka ngulik **anti-detect browser fingerprinting**, **payment gateway integration**, dan **captcha bypass research**.
+Suka ngulik **anti-detect browser fingerprinting**, **captcha bypass research**, dan **multi-agent orchestration**. PIp, npm, dan git clone — triple distribution atau nothing.
 
 <details>
 <summary>🇮🇩 <b>Versi Indonesia</b></summary>
 
 <br>
 
-Bikin bot Telegram buat jualan (GSuite reseller, domain, virtual account), automation buat grab keys & bypass captcha, dan bridge yang nyambungin X/Twitter ke WhatsApp.
+Bikin bot Telegram buat jualan (GSuite reseller, domain, virtual account), automation pipeline buat key-grabbing & captcha bypass, dan bridge yang nyabungin X/Twitter ke WhatsApp.
 
 **Stack andalan:**
 - Node.js + TypeScript buat bot production
@@ -45,7 +45,7 @@ Semua deploy di VPS Debian 12, tunneling lewat Cloudflare biar gak buka port pub
 
 <br>
 
-English literature student who got way too deep into coding. I build Telegram bots for reselling (GSuite, domains, virtual accounts), automation pipelines for key-grabbing & captcha bypass, and bridges connecting X/Twitter to WhatsApp.
+Building Telegram bots for reselling (GSuite, domains, virtual accounts), automation pipelines for key-grabbing & captcha bypass, and bridges connecting X/Twitter to WhatsApp.
 
 **Go-to stack:**
 - Node.js + TypeScript for production bots
@@ -79,7 +79,7 @@ SQL                      ████████░░░░░░░░░░�
 ```
 
 **Frameworks & Tools**
-- **Bot**: Telegraf · Grammy · Pyrogram · Telethon
+- **Bot**: Telegraf · Grammy · Pyrogram · Telethon · discord.py-self
 - **API**: FastAPI · Express · Hono
 - **Browser**: Playwright · Camoufox · Puppeteer
 - **Infra**: Cloudflare Tunnel · systemd · Nginx · Caddy
@@ -87,7 +87,7 @@ SQL                      ████████░░░░░░░░░░�
 - **Auth**: Google Workspace Admin SDK · OAuth2
 
 **Domains**
-- 🤖 Telegram bot ecosystems (reseller, payment, automation)
+- 🤖 Telegram & Discord bot ecosystems (reseller, payment, automation)
 - 🌉 Service bridges (X → WA, social media sync)
 - 🌍 Web automation & anti-bot bypass research
 - 💳 QRIS payment integration
@@ -97,6 +97,11 @@ SQL                      ████████░░░░░░░░░░�
 ---
 
 ## ⭐ Featured Projects
+
+### 🎫 [dismoy](https://github.com/mocasus/dismoy)
+> All-in-one Discord selfbot — moderation, utility, fun, monitoring. Hybrid plugin system, triple distribution (pip · npm · git clone).
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ### 🌉 [x-waha-bridge](https://github.com/mocasus/x-waha-bridge)
 > Production bridge mirroring public X posts to WhatsApp in real-time
@@ -108,15 +113,20 @@ SQL                      ████████░░░░░░░░░░�
 >
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
+### 🤖 [trade-agent](https://github.com/mocasus/trade-agent)
+> Modular AI trading agent — LLM analyzes market+news+indicators → decision → execution. 100+ exchanges, 7 plugins, paper-mode default.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-8b5cf6?style=flat-square&logo=openai&logoColor=white)
+
 ### 🚀 [smart-commit-cli](https://github.com/mocasus/smart-commit-cli)
 > AI-powered CLI generating conventional commits & PR descriptions
 >
 > ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-8b5cf6?style=flat-square&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📦 [moyy-vps-bots](https://github.com/mocasus/moyy-vps-bots) 🔒
-> Mega-repo: 16 bots & automations consolidated for VPS deployment
+### 🎫 [discord-ticketing-bot](https://github.com/mocasus/discord-ticketing-bot)
+> Discord bot for ticketing + auto-order with inline buttons. Single-seller e-commerce per server.
 >
-> ![Multi](https://img.shields.io/badge/Multi--lang-181717?style=flat-square&logo=github&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-0d597f?style=flat-square&logo=linux&logoColor=white) ![LOC](https://img.shields.io/badge/36k+_LOC-2ea44f?style=flat-square)
+> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 <br/>
 
@@ -132,7 +142,6 @@ SQL                      ████████░░░░░░░░░░�
 
 <div align="center">
 
-<!-- Primary stats: github-readme-stats mu-rouge mirror (hackclub mirror has no PAT set, original 503) -->
 <a href="https://github.com/mocasus">
   <img height="170" src="https://github-readme-stats-mu-rouge.vercel.app/api?username=mocasus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=2ea44f&icon_color=26a5e4&cache_seconds=1800" alt="Stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=mocasus&theme=tokyonight&hide_border=true&background=0d1117&ring=2ea44f&fire=ea4335&currStreakLabel=2ea44f" alt="Streak"/>
@@ -146,7 +155,7 @@ SQL                      ████████░░░░░░░░░░�
 
 <br/><br/>
 
-<!-- Snake contribution graph (generated by .github/workflows/snake.yml) -->
+<!-- Snake contribution graph -->
 <a href="https://github.com/mocasus">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mocasus/mocasus/output/github-contribution-grid-snake-dark.svg"/>
@@ -157,7 +166,7 @@ SQL                      ████████░░░░░░░░░░�
 
 <br/><br/>
 
-<!-- Activity graph (works reliably) -->
+<!-- Activity graph -->
 <a href="https://github.com/mocasus">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mocasus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2ea44f&line=26a5e4&point=ea4335&area=true&area_color=2ea44f" alt="activity"/>
 </a>
@@ -166,24 +175,10 @@ SQL                      ████████░░░░░░░░░░�
 
 ---
 
-## 🚧 Currently Working On
-
-```text
-🔧  moyy-vps-bots          → consolidating 16 bots into mega-repo
-🌐  luarmor-key-grabber    → Imp Hub key auto-capture pipeline
-🧪  Anti-detect research   → Cloudflare Managed Challenge bypass
-🤖  GSuite reseller        → KlikQRIS payment integration
-🎯  EvoMap A2A worker      → autonomous credit-mining agent
-💹  trade-agent            → multi-exchange crypto trading agent
-```
-
----
-
 ## 🔗 Connect
 
 <div align="center">
 
-<!-- Animated badges with proper icons (simple-icons.org slugs) -->
 <a href="https://mocasus.my.id">
   <img src="https://img.shields.io/badge/Website-mocasus.my.id-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website"/>
 </a>
@@ -199,35 +194,6 @@ SQL                      ████████░░░░░░░░░░�
 
 <br/><br/>
 
-<!-- Location & University cards with logos -->
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://flagcdn.com/w80/id.png" alt="Indonesia" height="32"/>
-
-**Semarang, Indonesia 🇮🇩**
-
-<sub>Central Java · GMT+7 (WIB)</sub>
-
-</td>
-<td align="center" width="50%">
-
-<a href="https://unnes.ac.id">
-  <img src="https://raw.githubusercontent.com/mocasus/mocasus/main/assets/unnes-logo.png" alt="UNNES" height="64"/>
-</a>
-
-**Universitas Negeri Semarang**
-
-<sub>Sastra Inggris · Faculty of Languages and Arts</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Animated wave separator + tagline -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=2000&color=8b5cf6&center=true&vCenter=true&width=600&lines=Always+open+to+collaborate+on+automation+%26+bot+projects+%E2%9C%A8;Reach+out+on+Telegram+for+the+fastest+response+%F0%9F%9A%80" alt="tagline"/>
 
 </div>
@@ -236,8 +202,8 @@ SQL                      ████████░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,2ea44f&height=100&section=footer" alt="footer"/>
 
-<sub>Profile <b>v5.3</b> · 2026-06-30</sub>
+<sub>Profile <b>v6.0</b> · 2026-07-08</sub>
 
 </div>
