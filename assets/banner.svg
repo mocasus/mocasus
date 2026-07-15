@@ -31,7 +31,7 @@
 
   <!-- Mini stats -->
   <text x="48" y="142" font-family="JetBrains Mono, monospace" font-size="13" fill="#2ea44f">⚡</text>
-  <text x="72" y="142" font-family="Inter, sans-serif" font-size="13" fill="#c9d1d9">31 repos · 5 featured · triple distribution</text>
+  <text x="72" y="142" font-family="Inter, sans-serif" font-size="13" fill="#c9d1d9">50 repos · 6 featured · triple distribution</text>
 
   <text x="48" y="164" font-family="JetBrains Mono, monospace" font-size="13" fill="#26a5e4">🔒</text>
   <text x="72" y="164" font-family="Inter, sans-serif" font-size="13" fill="#c9d1d9">Debian 12 · Cloudflare Tunnel · zero public ports</text>
