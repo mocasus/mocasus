@@ -9,9 +9,7 @@
   <img height="150" src="https://github-readme-stats-mu-rouge.vercel.app/api/top-langs/?username=mocasus&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mocasus&theme=onedark&no-frame=true&no-bg=true&column=8&margin-w=8&margin-h=8" />
-</p>
+<br />
 
 ---
 
