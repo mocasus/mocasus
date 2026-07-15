@@ -35,8 +35,8 @@
   <a href="https://github.com/mocasus/x-waha-bridge"><img height="120" src="https://github-readme-stats-mu-rouge.vercel.app/api/pin/?username=mocasus&repo=x-waha-bridge&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" /></a>
   <a href="https://github.com/mocasus/telegram-auto-order-bot"><img height="120" src="https://github-readme-stats-mu-rouge.vercel.app/api/pin/?username=mocasus&repo=telegram-auto-order-bot&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" /></a>
   <a href="https://github.com/mocasus/trade-agent"><img height="120" src="https://github-readme-stats-mu-rouge.vercel.app/api/pin/?username=mocasus&repo=trade-agent&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" /></a>
-  <a href="https://github.com/mocasus/component-lib"><img height="120" src="https://github-readme-stats-mu-rouge.vercel.app/api/pin/?username=mocasus&repo=component-lib&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" /></a>
-  <a href="https://github.com/mocasus/domain-bot"><img height="120" src="https://github-readme-stats-mu-rouge.vercel.app/api/pin/?username=mocasus&repo=domain-bot&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" /></a>
+  <a href="https://github.com/mocasus/Auto-FreeCF"><img height="120" src="https://github-readme-stats-mu-rouge.vercel.app/api/pin/?username=mocasus&repo=Auto-FreeCF&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" /></a>
+  <a href="https://github.com/mocasus/botnot"><img height="120" src="https://github-readme-stats-mu-rouge.vercel.app/api/pin/?username=mocasus&repo=botnot&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e" /></a>
 </p>
 
 <p align="center">
